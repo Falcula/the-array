@@ -5,7 +5,13 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon"
+    "start": "node app.js"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "engines": {
+    "node": "10.x"
   },
   "author": "Jonas",
   "license": "ISC",

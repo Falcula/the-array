@@ -8,3 +8,6 @@ Entry JSON object
     description: String,
     date: String,
 }
+
+
+Deployed to https://the-array.herokuapp.com/api/array

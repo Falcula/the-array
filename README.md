@@ -10,4 +10,3 @@ Entry JSON object
 }
 
 
-Deployed to https://the-array.herokuapp.com/api/array
